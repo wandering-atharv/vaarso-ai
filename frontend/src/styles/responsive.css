@@ -1,0 +1,175 @@
+/* ============================================================
+   Vaarso AI — Responsive Breakpoints
+   ============================================================ */
+
+/* ---- Tablet (≤ 1200px) ---- */
+@media (max-width: 1200px) {
+  :root { --sidebar-w: 170px; }
+
+  .topbar { padding: 0 20px; }
+  .topstats { gap: 8px; }
+
+  .feature-strip { grid-template-columns: repeat(3, 1fr); }
+  .feature:nth-child(3) { border-right: 0; }
+  .feature:nth-child(-n+3) { border-bottom: 1px solid var(--line); }
+
+  .collection-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .collection-card { min-height: 200px; }
+
+  .record-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
+  .hero-caption { display: none; }
+
+  .callout-stats { gap: 14px; }
+
+  .archive-layout {
+    grid-template-columns: minmax(0, 1.3fr) minmax(260px, 0.75fr);
+  }
+}
+
+/* ---- Mobile (≤ 800px) ---- */
+@media (max-width: 800px) {
+  .sidebar {
+    transform: translateX(-100%);
+    transition: transform 0.25s var(--ease);
+    width: 260px;
+    box-shadow: 20px 0 50px rgba(0, 0, 0, 0.3);
+  }
+  .sidebar.open { transform: translateX(0); }
+
+  .mobile-close { display: grid; margin-left: auto; }
+  .hamburger { display: grid; }
+
+  .mobile-close, .hamburger {
+    border: 1px solid var(--line);
+    background: transparent;
+    color: var(--text);
+    place-items: center;
+    border-radius: 50%;
+    width: 32px;
+    height: 32px;
+  }
+
+  .main { margin-left: 0; width: 100%; }
+
+  .topbar {
+    height: 58px;
+    padding: 0 14px;
+    gap: 10px;
+  }
+
+  .topstats { display: none; }
+
+  .hero {
+    height: 420px;
+    background-position: 58% center;
+  }
+
+  .hero-content { padding: 54px 20px; }
+  .hero h1 { font-size: 38px; }
+  .hero-content > p { max-width: 320px; }
+
+  .feature-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding: 0 8px;
+  }
+  .feature {
+    padding: 14px 8px;
+    border-bottom: 1px solid var(--line);
+  }
+  .feature:nth-child(odd) { border-right: 1px solid var(--line); }
+  .feature:nth-child(even) { border-right: 0; }
+  .feature b { white-space: normal; }
+
+  .section-block, .home-lower { padding: 26px 16px; }
+  .section-heading h2 { font-size: 23px; }
+
+  .collection-grid { gap: 10px; }
+  .collection-card { min-height: 180px; }
+  .collection-info { left: 10px; bottom: 10px; }
+  .collection-info h3 { font-size: 15px; }
+
+  .archive-callout {
+    padding: 22px 18px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .callout-stats { margin-top: 20px; justify-content: space-between; width: 100%; }
+  .callout-stats div { padding-left: 12px; }
+
+  .page-wrap { padding: 26px 16px 36px; }
+  .page-title {
+    align-items: flex-start;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  .page-title h1 { font-size: 30px; }
+  .count-pill { align-self: flex-start; }
+
+  .record-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .record-image { height: 130px; }
+  .record-content { padding: 10px; }
+  .record-content h3 { font-size: 15px; }
+  .record-meta { flex-direction: column; gap: 4px; }
+
+  .filter-row { flex-wrap: wrap; }
+  .demo-note { width: 100%; margin-left: 0; }
+
+  .archive-layout, .map-layout, .lab-grid { grid-template-columns: 1fr; }
+
+  .assistant-panel {
+    position: static;
+    min-height: 380px;
+  }
+
+  .map-shell { min-height: 400px; }
+  .map-shell .leaflet-container { min-height: 400px !important; }
+
+  .detail-image { height: 230px; }
+  .detail-body { padding: 18px; }
+  .detail-body h2 { font-size: 26px; }
+
+  .graph-panel { padding: 16px; }
+  .graph-canvas { padding: 4px; }
+  .graph-legend { gap: 12px; }
+
+  .footer {
+    flex-wrap: wrap;
+    padding: 14px 16px;
+  }
+  .footer p { margin-right: 0; }
+
+  .hero-credit { font-size: 7px; }
+
+  .search-row { gap: 8px; }
+  .search-row .gold-btn { padding: 9px; }
+
+  .lab-card { padding: 16px; }
+}
+
+/* ---- Small Phone (≤ 430px) ---- */
+@media (max-width: 430px) {
+  .brandname { font-size: 21px; }
+
+  .hero h1 { font-size: 32px; }
+  .hero-content { padding-top: 44px; }
+  .hero-search { height: 44px; }
+  .quicktags button { font-size: 8px; }
+
+  .collection-card { min-height: 150px; }
+  .collection-info small { font-size: 7px; }
+  .collection-info h3 { font-size: 13px; }
+  .collection-info > span { font-size: 8px; }
+
+  .record-grid { grid-template-columns: 1fr; }
+  .record-image { height: 185px; }
+
+  .topbar .avatar { width: 30px; height: 30px; }
+  .page-title h1 { font-size: 27px; }
+
+  .callout-stats b { font-size: 20px; }
+  .callout-stats span { font-size: 8px; }
+}

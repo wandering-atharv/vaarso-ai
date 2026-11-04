@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+.venv/
+env/
+venv/
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Secrets & Local environment
+.env
+.env.local
+backend/.env
+backend/.env.local
+*.log
+
+# Scratch / Temp
+scratch/
+.pytest_cache/

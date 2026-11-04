@@ -1,0 +1,94 @@
+[
+  {
+    "session_id": "sess_ed725fb813",
+    "title": "Test Inscription Paleographic Session",
+    "session_name": "Test Inscription Paleographic Session",
+    "document_url": "/uploads/ocr_a8ab91e8_test_inscription_rubbing.png",
+    "document_type": "Stone Inscription Rubbing",
+    "original_filename": "",
+    "original_ai_transcription": "### TRANSCRIPTION\n\nLine 1: ॐ नमो—भगवते वासुदेवाय\nLine 2: श्री सोलंकी नरेश भीमदेव\nLine 3: Sanskrit & Medieval Inscription · Patan Sun Temple Record\n\n### PALEOGRAPHIC & ARCHIVAL NOTES\n\n- **Identified Script:** Devanagari (restored from corrupted digital encoding) and Latin script.\n- **Identified Language:** Classical Sanskrit (Line 1), Hindi/Old Gujarati (Line 2), and English (Line 3).\n- **Category:** Archival Transcription / Digital Record of a Historical Inscription.\n- **Physical Condition:** The uploaded image does not show a direct photograph of a stone or manuscript, but rather a digital record suffering from significant encoding corruption (commonly known as *mojibake*). The Devanagari characters were incorrectly rendered as Latin-1 symbols (e.g., `à¥` for `ॐ`, `à¤¨à¤®à¥‹` for `नमो`). As an expert researcher, I have decoded these artifacts to restore the intended historical text. \n\n**Historical Context:**\nThe text refers to a record from the Sun Temple at Modhera (located in the Patan district of Gujarat). The inscription mentions **King Bhimdev I** (r. 1022–1064 CE) of the **Solanki (Chaulukya) dynasty**, under whose reign the magnificent Sun Temple was commissioned. The first line is a standard Vaishnava invocation (*Om Namo Bhagavate Vasudevaya*), which is typical for the beginning of royal charters and temple records of that era.",
+    "human_edited_transcription": "### TRANSCRIPTION\n\nLine 1: ॐ [सिद्धम्] नमो—भगवते वासुदेवाय\nLine 2: श्री सोलंकी नरेश भीमदेव\nLine 3: Sanskrit & Medieval Inscription · Patan Sun Temple Record\n\n### PALEOGRAPHIC & ARCHIVAL NOTES\n\n- **Identified Script:** Devanagari (restored from corrupted digital encoding) and Latin script.\n- **Identified Language:** Classical Sanskrit (Line 1), Hindi/Old Gujarati (Line 2), and English (Line 3).\n- **Category:** Archival Transcription / Digital Record of a Historical Inscription.\n- **Physical Condition:** The uploaded image does not show a direct photograph of a stone or manuscript, but rather a digital record suffering from significant encoding corruption (commonly known as *mojibake*). The Devanagari characters were incorrectly rendered as Latin-1 symbols (e.g., `à¥` for `ॐ [सिद्धम्]`, `à¤¨à¤®à¥‹` for `नमो`). As an expert researcher, I have decoded these artifacts to restore the intended historical text. \n\n**Historical Context:**\nThe text refers to a record from the Sun Temple at Modhera (located in the Patan district of Gujarat). The inscription mentions **King Bhimdev I** (r. 1022–1064 CE) of the **Solanki (Chaulukya) dynasty**, under whose reign the magnificent Sun Temple was commissioned. The first line is a standard Vaishnava invocation (*Om Namo Bhagavate Vasudevaya*), which is typical for the beginning of royal charters and temple records of that era.",
+    "original_text": "### TRANSCRIPTION\n\nLine 1: ॐ नमो—भगवते वासुदेवाय\nLine 2: श्री सोलंकी नरेश भीमदेव\nLine 3: Sanskrit & Medieval Inscription · Patan Sun Temple Record\n\n### PALEOGRAPHIC & ARCHIVAL NOTES\n\n- **Identified Script:** Devanagari (restored from corrupted digital encoding) and Latin script.\n- **Identified Language:** Classical Sanskrit (Line 1), Hindi/Old Gujarati (Line 2), and English (Line 3).\n- **Category:** Archival Transcription / Digital Record of a Historical Inscription.\n- **Physical Condition:** The uploaded image does not show a direct photograph of a stone or manuscript, but rather a digital record suffering from significant encoding corruption (commonly known as *mojibake*). The Devanagari characters were incorrectly rendered as Latin-1 symbols (e.g., `à¥` for `ॐ`, `à¤¨à¤®à¥‹` for `नमो`). As an expert researcher, I have decoded these artifacts to restore the intended historical text. \n\n**Historical Context:**\nThe text refers to a record from the Sun Temple at Modhera (located in the Patan district of Gujarat). The inscription mentions **King Bhimdev I** (r. 1022–1064 CE) of the **Solanki (Chaulukya) dynasty**, under whose reign the magnificent Sun Temple was commissioned. The first line is a standard Vaishnava invocation (*Om Namo Bhagavate Vasudevaya*), which is typical for the beginning of royal charters and temple records of that era.",
+    "edited_text": "### TRANSCRIPTION\n\nLine 1: ॐ [सिद्धम्] नमो—भगवते वासुदेवाय\nLine 2: श्री सोलंकी नरेश भीमदेव\nLine 3: Sanskrit & Medieval Inscription · Patan Sun Temple Record\n\n### PALEOGRAPHIC & ARCHIVAL NOTES\n\n- **Identified Script:** Devanagari (restored from corrupted digital encoding) and Latin script.\n- **Identified Language:** Classical Sanskrit (Line 1), Hindi/Old Gujarati (Line 2), and English (Line 3).\n- **Category:** Archival Transcription / Digital Record of a Historical Inscription.\n- **Physical Condition:** The uploaded image does not show a direct photograph of a stone or manuscript, but rather a digital record suffering from significant encoding corruption (commonly known as *mojibake*). The Devanagari characters were incorrectly rendered as Latin-1 symbols (e.g., `à¥` for `ॐ [सिद्धम्]`, `à¤¨à¤®à¥‹` for `नमो`). As an expert researcher, I have decoded these artifacts to restore the intended historical text. \n\n**Historical Context:**\nThe text refers to a record from the Sun Temple at Modhera (located in the Patan district of Gujarat). The inscription mentions **King Bhimdev I** (r. 1022–1064 CE) of the **Solanki (Chaulukya) dynasty**, under whose reign the magnificent Sun Temple was commissioned. The first line is a standard Vaishnava invocation (*Om Namo Bhagavate Vasudevaya*), which is typical for the beginning of royal charters and temple records of that era.",
+    "language": "Sanskrit (Nagari)",
+    "language_script": "Sanskrit (Nagari)",
+    "uncertainties": [],
+    "confidence_stats": {
+      "overall": 93.5,
+      "high": 82,
+      "moderate": 9,
+      "uncertain": 2
+    },
+    "confidence_score": 93.5,
+    "monument_id": null,
+    "notes": "Verified against ASI Western Circle corpus.",
+    "created_at": "2026-11-04T11:54:38.230173+00:00",
+    "updated_at": "2026-11-04T11:54:38.230173+00:00"
+  },
+  {
+    "session_id": "sess_1793740351463",
+    "title": "Patan Solanki Stepwell Rubbing (1063 CE)",
+    "session_name": "Patan Solanki Stepwell Rubbing (1063 CE)",
+    "document_url": "/uploads/ocr_6c0e7da2_patan_stepwell.jpg",
+    "document_type": "Stone Inscription Rubbing",
+    "original_filename": "",
+    "original_ai_transcription": "### TRANSCRIPTION\n\nवास्तविक\nshub_sandhu\n\n### PALEOGRAPHIC & ARCHIVAL NOTES\n\n*   **Script & Language:** The visible text consists of two lines in the upper-left corner. The first line is in Devanagari script (Hindi: वास्तविक, meaning 'authentic' or 'real'). The second line is in Latin script (shub_sandhu), representing a modern digital identifier or watermark.\n*   **Context & Condition:** The text is a modern digital overlay and does not constitute an original historical inscription or epigraphic record belonging to the structure. \n*   **Observable Features:** The image captures a vertical, top-down perspective of a circular, multi-tiered stepwell (vapi). The architectural features include concentric rings of ornate stone carvings, featuring anthropomorphic figures (likely deities) housed in pillared niches, interspersed with decorative floral and geometric friezes. No primary historical inscriptions are legible on the stone surfaces from this specific photographic angle and resolution.",
+    "human_edited_transcription": "### TRANSCRIPTION\n\nवास्तविक\nshub_sandhu\n\n### PALEOGRAPHIC & ARCHIVAL NOTES\n\n*   **Script & Language:** The visible text consists of two lines in the upper-left corner. The first line is in Devanagari script (Hindi: वास्तविक, meaning 'authentic' or 'real'). The second line is in Latin script (shub_sandhu), representing a modern digital identifier or watermark.\n*   **Context & Condition:** The text is a modern digital overlay and does not constitute an original historical inscription or epigraphic record belonging to the structure. \n*   **Observable Features:** The image captures a vertical, top-down perspective of a circular, multi-tiered stepwell (vapi). The architectural features include concentric rings of ornate stone carvings, featuring anthropomorphic figures (likely deities) housed in pillared niches, interspersed with decorative floral and geometric friezes. No primary historical inscriptions are legible on the stone surfaces from this specific photographic angle and resolution.",
+    "original_text": "### TRANSCRIPTION\n\nवास्तविक\nshub_sandhu\n\n### PALEOGRAPHIC & ARCHIVAL NOTES\n\n*   **Script & Language:** The visible text consists of two lines in the upper-left corner. The first line is in Devanagari script (Hindi: वास्तविक, meaning 'authentic' or 'real'). The second line is in Latin script (shub_sandhu), representing a modern digital identifier or watermark.\n*   **Context & Condition:** The text is a modern digital overlay and does not constitute an original historical inscription or epigraphic record belonging to the structure. \n*   **Observable Features:** The image captures a vertical, top-down perspective of a circular, multi-tiered stepwell (vapi). The architectural features include concentric rings of ornate stone carvings, featuring anthropomorphic figures (likely deities) housed in pillared niches, interspersed with decorative floral and geometric friezes. No primary historical inscriptions are legible on the stone surfaces from this specific photographic angle and resolution.",
+    "edited_text": "### TRANSCRIPTION\n\nवास्तविक\nshub_sandhu\n\n### PALEOGRAPHIC & ARCHIVAL NOTES\n\n*   **Script & Language:** The visible text consists of two lines in the upper-left corner. The first line is in Devanagari script (Hindi: वास्तविक, meaning 'authentic' or 'real'). The second line is in Latin script (shub_sandhu), representing a modern digital identifier or watermark.\n*   **Context & Condition:** The text is a modern digital overlay and does not constitute an original historical inscription or epigraphic record belonging to the structure. \n*   **Observable Features:** The image captures a vertical, top-down perspective of a circular, multi-tiered stepwell (vapi). The architectural features include concentric rings of ornate stone carvings, featuring anthropomorphic figures (likely deities) housed in pillared niches, interspersed with decorative floral and geometric friezes. No primary historical inscriptions are legible on the stone surfaces from this specific photographic angle and resolution.",
+    "language": "Sanskrit in Nagari Script",
+    "language_script": "Sanskrit in Nagari Script",
+    "uncertainties": [],
+    "confidence_stats": {
+      "overall": 95,
+      "high": 84,
+      "moderate": 9,
+      "uncertain": 3,
+      "uncertain_count": 0
+    },
+    "confidence_score": 95.0,
+    "monument_id": null,
+    "notes": "Initial transcription extracted via Gemini Vision paleographic OCR. Pending comparative epigraphic cross-check.",
+    "created_at": "2026-11-03T21:12:31.469911+00:00",
+    "updated_at": "2026-11-03T21:12:31.469911+00:00"
+  },
+  {
+    "session_id": "sess_patan_1063",
+    "title": "Solanki Royal Inscription Fragment — Patan",
+    "document_url": "/uploads/ocr_7251ccaf_sample_manuscript.png",
+    "original_filename": "solanki_inscriptional_rubbing_patan.png",
+    "original_ai_transcription": "ॐ नमः शिवाय ॥\nस्वस्ति श्री विक्रमादित्य नृप कालातीत संवत् १०८३ [कार्त्तिक?] वदि १५...\nश्रीमद् अणहिल्लपाटक राजाधिराज श्री भीमदेव विजयराज्ये...\nतस्य महादेवी उदयमती सुकृतार्थं जलस्थानं प्रावर्तयत् ॥ [तदा?] ... [धर्माय?]",
+    "human_edited_transcription": "ॐ नमः शिवाय ॥\nस्वस्ति श्री विक्रमादित्य नृप कालातीत संवत् १०८३ कार्त्तिक वदि १५...\nश्रीमद् अणहिल्लपाटक राजाधिराज श्री भीमदेव विजयराज्ये...\nतस्य महादेवी उदयमती सुकृतार्थं जलस्थानं प्रावर्तयत् ॥ तदा ... धर्माय",
+    "language": "Sanskrit (Devanagari)",
+    "uncertainties": [
+      {
+        "target": "कार्त्तिक?",
+        "reason": "Stone abrasion along upper conjunct ligature",
+        "confidence": "Moderate (65%)",
+        "suggested": "कार्त्तिक"
+      },
+      {
+        "target": "तदा?",
+        "reason": "Weathered virama stroke",
+        "confidence": "Low (48%)",
+        "suggested": "तदा"
+      },
+      {
+        "target": "धर्माय?",
+        "reason": "Partially damaged syllable 'धर्'",
+        "confidence": "Low (42%)",
+        "suggested": "धर्माय"
+      }
+    ],
+    "confidence_stats": {
+      "high_confidence_pct": 84,
+      "moderate_confidence_pct": 11,
+      "uncertain_pct": 5,
+      "uncertain_passages_count": 3
+    },
+    "monument_id": 1,
+    "notes": "Paleographic transcription of western Indian 11th century Nagari script. Compares directly with Merutunga's Prabandhachintamani attribution.",
+    "created_at": "2026-11-02T10:15:00Z",
+    "updated_at": "2026-11-02T14:30:00Z"
+  }
+]
