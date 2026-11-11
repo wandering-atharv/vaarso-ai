@@ -3,7 +3,7 @@ import { useApp } from '../context/AppContext';
 import { 
   Search, Filter, ExternalLink, ShieldCheck, CheckCircle2, AlertTriangle, 
   FileText, Award, Calendar, MapPin, Database, BookOpen, Layers, Info, Check,
-  Sparkles, Eye, Download, Play, ChevronRight, X
+  Sparkles, Eye, Download, Play, ChevronRight, X, Upload
 } from 'lucide-react';
 import ListenToHistory from '../components/ListenToHistory';
 import AIAssistant from '../components/AIAssistant';
