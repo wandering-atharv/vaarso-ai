@@ -95,3 +95,8 @@ cd frontend
 npm install
 npm run build
 ```
+## 🚀 Live Demo
+
+**Explore VAARSO AI:** [Open Live Application] https://vaarso-ai.onrender.com
+
+Experience AI-powered heritage discovery, archival digitization, semantic exploration, and interactive heritage experiences.
